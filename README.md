@@ -52,14 +52,18 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 
 
-## Image of Application 
-![image](https://user-images.githubusercontent.com/40706088/155916419-25366ce1-724f-4ac0-82b2-0dd3d38be8fb.png)
-
- 
-
-    
+## Image 1 of Application 
+![image](https://user-images.githubusercontent.com/40706088/156947359-04cc6aff-b3b9-46bd-8010-3704ac83f0ed.png)    
 
 
+## Image 2 of Application 
+![image](https://user-images.githubusercontent.com/40706088/156947383-22cb2814-09b1-4e3e-9b52-9f910794cb3b.png)
+
+## Image 3 of Application 
+![image](https://user-images.githubusercontent.com/40706088/156947417-92e7f4c9-0b4f-40c8-8248-f5810aaf4807.png)
+
+## Image 4 of Application 
+![image](https://user-images.githubusercontent.com/40706088/156947457-e2225785-b68f-4aca-908b-65256e968d83.png)
 
 
 ## Installation
