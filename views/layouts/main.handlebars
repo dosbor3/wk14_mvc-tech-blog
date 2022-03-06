@@ -9,8 +9,8 @@
 </head>
 
 <body>
-  <div class="wrapper">
-    <header>
+  <div class="wrapper">   
+    <header class="header">
       <h1>
         <a href="/">Home</a>
       </h1>
@@ -20,10 +20,11 @@
       </h1>      
       <nav>        
         <button id="logout" class="btn-no-style">Logout</button>
-        {{else}}
+        {{else}}        
         <a href="/login">Login</a>
         {{/if}}
-    </nav>
+    </nav>  
+     <span class="hero"> <h2 class="hero">The Tech Blog</h2></span>  
     </header>
     <main>
       {{{ body }}}
