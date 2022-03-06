@@ -68,14 +68,14 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 ## Installation
 
-The application can be accessed at:   https://github.com/dosbor3/wk14-mvc-tech-blog 
+The application can be accessed at:   https://github.com/dosbor3/wk14_mvc-tech-blog
 
 
 
 
 ## Deployed Site
 
-The application is deployed at the following Heroku Site: https://dashboard.heroku.com/apps/wk14-mvc-tech-blog-dosbor3
+The application is deployed at the following Heroku Site: https://dashboard.heroku.com/apps/wk14_mvc-tech-blog
 
 
 
@@ -100,7 +100,7 @@ The application is deployed at the following Heroku Site: https://dashboard.hero
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.  Source code can be found at https://github.com/dosbor3/wk14-mvc-tech-blog
+Please make sure to update tests as appropriate.  Source code can be found at https://github.com/dosbor3/wk14_mvc-tech-blog
 
 
 
