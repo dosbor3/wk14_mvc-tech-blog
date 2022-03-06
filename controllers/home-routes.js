@@ -31,7 +31,7 @@ router.get('/', (req, res) => {
     .then(dbPostData => {
       const posts = dbPostData.map(post => post.get({ plain: true }));
 
-      res.render('homepage', { 
+      res.render('homepage', {
         posts,
         loggedIn: req.session.loggedIn
       });
@@ -42,6 +42,7 @@ router.get('/', (req, res) => {
     });
 });
 
+// get single post
 router.get('/post/:id', (req, res) => {
   Post.findOne({
     where: {
@@ -75,21 +76,18 @@ router.get('/post/:id', (req, res) => {
         return;
       }
 
-      // serialize the data
       const post = dbPostData.get({ plain: true });
 
-      // pass data to template
-      res.render('single-post', { 
-        post, 
+      res.render('single-post', {
+        post,
         loggedIn: req.session.loggedIn
-       });
+      });
     })
     .catch(err => {
       console.log(err);
       res.status(500).json(err);
     });
 });
-
 
 router.get('/login', (req, res) => {
   if (req.session.loggedIn) {
