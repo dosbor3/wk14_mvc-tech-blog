@@ -2,8 +2,10 @@ const router = require('express').Router(); //creates a router instance that wil
                                             //routes and package and export them out
 const userRoutes = require('./user-routes.js');
 const postRoutes = require('./post-routes');
+const commentRoutes = require('./comment-routes');
 
 router.use('/users', userRoutes);
 router.use('/post', postRoutes);
+router.use('/comment', commentRoutes);
 
 module.exports = router;
