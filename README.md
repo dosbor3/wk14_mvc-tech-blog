@@ -75,7 +75,7 @@ The application can be accessed at:   https://github.com/dosbor3/wk14_mvc-tech-b
 
 ## Deployed Site
 
-The application is deployed at the following Heroku Site: https://dashboard.heroku.com/apps/wk14_mvc-tech-blog
+The application is deployed at the following Heroku Site:  https://git.heroku.com/still-fjord-46453.git
 
 
 
