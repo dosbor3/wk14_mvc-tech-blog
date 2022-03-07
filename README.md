@@ -102,6 +102,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.  Source code can be found at https://github.com/dosbor3/wk14_mvc-tech-blog
 
-
-
-## Video Demonstrations of Application
